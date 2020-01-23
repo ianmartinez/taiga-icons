@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="32"
+   height="32"
+   id="svg6860"
+   sodipodi:docname="draw-spiral.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="-0.66101695"
+     inkscape:cy="12"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6860" />
+  <defs
+     id="defs6862">
+    <linearGradient
+       id="linearGradient4526"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop4528" />
+    </linearGradient>
+    <radialGradient
+       xlink:href="#linearGradient2195"
+       id="radialGradient17200"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.7227714,0,0,0.192592,-2.1579942,17.770444)"
+       cx="25.125"
+       cy="44.8125"
+       fx="25.125"
+       fy="44.8125"
+       r="20.25" />
+    <linearGradient
+       id="linearGradient2195">
+      <stop
+         id="stop2197"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop2199"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata6865">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <ellipse
+     id="path17194"
+     style="display:block;overflow:visible;visibility:visible;opacity:0.18333333;fill:url(#radialGradient17200);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.9403891;marker:none"
+     cx="16.001637"
+     cy="26.400995"
+     rx="14.636121"
+     ry="3.8999982" />
+  <path
+     id="path17196"
+     d="m 15.066746,16.476641 c 1.2792,1.464554 -1.02258,2.900872 -2.20909,2.746237 -2.58804,-0.337298 -3.5484802,-3.354429 -2.77108,-5.597917 1.03051,-2.973659 4.51932,-4.0709238 7.69977,-3.005106 3.20099,1.072695 4.76086,6.430099 3.20177,9.670518 -2.1749,4.520204 -6.92393,6.698757 -11.5473802,4.632758 -5.44115,-2.431429 -7.56561,-9.13809 -5.11524,-14.457261 2.80826,-6.0962326 10.3214802,-8.4585016 16.2619602,-5.6235266 6.67966,3.1877428 9.25314,11.5374216 6.0723,18.1217786 -0.3757,0.777712 -0.82264,1.520545 -1.33289,2.216695"
+     style="opacity:1;fill:none;stroke:#0e141f;stroke-width:4;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path17198"
+     d="m 15.066746,16.476641 c 1.2792,1.464554 -1.02258,2.900872 -2.20909,2.746237 -2.58804,-0.337298 -3.5484802,-3.354429 -2.77108,-5.597917 1.03051,-2.973659 4.51932,-4.0709238 7.69977,-3.005106 3.20099,1.072695 4.76086,6.430099 3.20177,9.670518 -2.1749,4.520204 -6.92393,6.698757 -11.5473802,4.632758 -5.44115,-2.431429 -7.56561,-9.13809 -5.11524,-14.457261 2.80826,-6.0962326 10.3214802,-8.4585016 16.2619602,-5.6235266 6.67966,3.1877428 9.25314,11.5374216 6.0723,18.1217786 -0.3757,0.777712 -0.82264,1.520545 -1.33289,2.216695"
+     style="opacity:1;fill:none;stroke:#667885;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+</svg>

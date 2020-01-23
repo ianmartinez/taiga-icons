@@ -1,0 +1,19 @@
+130%,140%
+
+Highlights 255->220
+
+web
+chart
+table
+
+STOPPED AT:
+go-up
+
+BASES:
+add
+remove
+edit
+properties
+warning
+error
+check
