@@ -23,15 +23,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="2880"
+     inkscape:window-height="1706"
      id="namedview25"
      showgrid="false"
      inkscape:zoom="14.75"
-     inkscape:cx="8"
+     inkscape:cx="-6.8813559"
      inkscape:cy="10.703565"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6117" />
   <defs
@@ -44,7 +44,7 @@
        id="linearGradient10680"
        xlink:href="#linearGradient4011-7-3"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.61486483,0,0,0.61486483,-28.106397,0.40876923)" />
+       gradientTransform="matrix(0.52263511,0,0,0.52263511,-21.490435,2.7474595)" />
     <linearGradient
        id="linearGradient4011-7-3">
       <stop
@@ -92,7 +92,7 @@
        id="radialGradient6115"
        xlink:href="#linearGradient4044-1-8"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,1.892388,-2.0503297,0,1109.0557,-520.3478)" />
+       gradientTransform="matrix(0,1.6085298,-1.7427802,0,945.09735,-439.89562)" />
   </defs>
   <metadata
      id="metadata6122">
@@ -102,7 +102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,43 +110,43 @@
      inkscape:connector-curvature="0"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient6115);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
      id="path3009-1-6"
-     d="m 29.125018,16.000038 a 13.125,13.125 0 1 1 -26.2500008,0 13.125,13.125 0 1 1 26.2500008,0 z" />
+     d="m 27.156268,16.000038 a 11.15625,11.15625 0 1 1 -22.3125007,0 11.15625,11.15625 0 1 1 22.3125007,0 z" />
   <path
      inkscape:connector-curvature="0"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:#a53400;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
      id="path3009-5-8-6"
-     d="m 29.125018,16.000038 a 13.125,13.125 0 1 1 -26.2500008,0 13.125,13.125 0 1 1 26.2500008,0 z" />
+     d="m 27.156268,16.000038 a 11.15625,11.15625 0 1 1 -22.3125007,0 11.15625,11.15625 0 1 1 22.3125007,0 z" />
   <path
      inkscape:connector-curvature="0"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:url(#linearGradient10680);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
      id="path8655-6-3-2"
-     d="m 27.375026,15.999519 c 0,6.282501 -5.09313,11.375526 -11.374844,11.375526 -6.2823071,0 -11.3751571,-5.093025 -11.3751571,-11.375526 0,-6.2821499 5.09285,-11.3744749 11.3751571,-11.3744749 6.281714,0 11.374844,5.092325 11.374844,11.3744749 z" />
+     d="m 25.668775,15.999597 c 0,5.340126 -4.329161,9.669197 -9.668618,9.669197 -5.339961,0 -9.6688832,-4.329071 -9.6688832,-9.669197 0,-5.339828 4.3289222,-9.6683038 9.6688832,-9.6683038 5.339457,0 9.668618,4.3284758 9.668618,9.6683038 z" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#43340d;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#43340d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
      id="path3964-7-71"
-     d="m 13.812507,13.660773 a 1.3125011,3.5000028 0 1 1 -2.625002,0 1.3125011,3.5000028 0 1 1 2.625002,0 z" />
+     d="m 14.140634,14.011663 a 1.115626,2.9750027 0 1 1 -2.231252,0 1.115626,2.9750027 0 1 1 2.231252,0 z" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#43340d;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#43340d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
      id="path3964-7-7-2"
-     d="m 18.187503,13.660773 a 1.3125011,3.5000028 0 1 0 2.625002,0 1.3125011,3.5000028 0 1 0 -2.625002,0 z" />
+     d="m 17.85938,14.011663 a 1.115626,2.9750027 0 1 0 2.231252,0 1.115626,2.9750027 0 1 0 -2.231252,0 z" />
   <rect
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
      id="rect5605-1-2"
-     y="21.25"
-     x="9.0000248"
-     ry="0.875"
-     rx="5.25"
-     height="1.75"
-     width="14" />
+     y="20.462505"
+     x="10.050024"
+     ry="0.74374998"
+     rx="4.4625001"
+     height="1.4875"
+     width="11.9" />
   <rect
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5e4506;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
      id="rect5605-10"
-     y="20.200016"
-     x="9.0000248"
-     ry="1.75"
-     rx="5.25"
-     height="1.75"
-     width="14" />
+     y="19.570019"
+     x="10.050024"
+     ry="1.4875"
+     rx="4.4625001"
+     height="1.4875"
+     width="11.9" />
 </svg>

@@ -9,3 +9,6 @@ chart
 
 BASES:
 lock
+
+
+DOWN to 85%
