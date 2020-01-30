@@ -1,16 +1,11 @@
 130%,140%
+175% for 16px
 
 Highlights 255->220
-
+SMILIES: +0.7 value for shadow
+		-0.7 for face
 TODO:
-web
 chart
 
 BASES:
-add
-remove
-edit
-properties
-warning
-error
-check
+lock
