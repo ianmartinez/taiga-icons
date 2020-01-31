@@ -6,9 +6,6 @@ SMILIES: +0.7 value for shadow
 		-0.7 for face
 TODO:
 chart
-ui-progress
-ui-panel
-ui-textbox
 ui-dropdown
 
 FOR BASES:
