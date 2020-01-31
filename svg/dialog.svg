@@ -27,7 +27,7 @@
      inkscape:window-height="1706"
      id="namedview76"
      showgrid="false"
-     inkscape:zoom="1.84375"
+     inkscape:zoom="7.375"
      inkscape:cx="23.170714"
      inkscape:cy="8.7403604"
      inkscape:window-x="-11"
@@ -415,7 +415,7 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       gradientTransform="matrix(1.5801615,0,0,0.80989151,-16.695293,4.4261332)"
+       gradientTransform="matrix(1.5801615,0,0,0.80989151,-16.695293,5.4261332)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient3104-5"
        id="linearGradient3175"
@@ -598,7 +598,7 @@
   <path
      style="fill:none;stroke:url(#linearGradient3175);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2609"
-     d="m 5.3988759,13.77801 h 2.1231442 z m 2.6663257,0 h 3.4566034 z m 3.9997834,0 h 3.061562 z m 3.555364,0 h 1.333261 z m 1.876441,0 h 2.962803 z m 3.555364,0 h 4.888625 z M 5.3988759,16.5 h 2.5183835 z m 1.7281037,0 h 9.3328314 z"
+     d="m 5.3988759,14.77801 h 2.1231442 z m 2.6663257,0 h 3.4566034 z m 3.9997834,0 h 3.061562 z m 3.555364,0 h 1.333261 z m 1.876441,0 h 2.962803 z m 3.555364,0 h 4.888625 z M 5.3988759,17.5 h 2.5183835 z m 1.7281037,0 h 9.3328314 z"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccccccccccccccccccccc" />
 </svg>

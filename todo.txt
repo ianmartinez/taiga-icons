@@ -7,9 +7,9 @@ SMILIES: +0.7 value for shadow
 TODO:
 chart
 ui-switch
+ui-switch-off
 ui-button
-ui-checkbox
-ui-radio
+ui-button-focused
 ui-notebook
 ui-progress
 ui-panel
