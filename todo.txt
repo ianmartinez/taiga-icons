@@ -10,13 +10,11 @@ ui-switch
 ui-button
 ui-checkbox
 ui-radio
-ui-window
 ui-notebook
 ui-progress
 ui-panel
 ui-textbox
 ui-dropdown
-ui-dialog
 
 FOR BASES:
 Downscale to 15px max dimension, then 85%
