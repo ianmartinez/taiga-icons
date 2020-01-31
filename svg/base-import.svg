@@ -28,7 +28,7 @@
      id="namedview54"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-45.305085"
+     inkscape:cx="-67.627119"
      inkscape:cy="12"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
@@ -161,7 +161,7 @@
        id="linearGradient903"
        xlink:href="#linearGradient909" />
     <linearGradient
-       gradientTransform="matrix(0,-0.5936081,-0.63738297,0,57.423142,32.990242)"
+       gradientTransform="matrix(0,-0.5936081,-0.63738297,0,59.144363,40.660523)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient4297"
        id="linearGradient3260"
@@ -189,7 +189,7 @@
          id="stop4305" />
     </linearGradient>
     <radialGradient
-       gradientTransform="matrix(-0.30495948,0,0,-0.32689378,29.054046,29.623959)"
+       gradientTransform="matrix(-0.30495948,0,0,-0.32689378,30.775267,37.29424)"
        gradientUnits="userSpaceOnUse"
        xlink:href="#linearGradient8662-8"
        id="radialGradient3232"
@@ -217,7 +217,7 @@
        x1="17.151428"
        id="linearGradient872"
        xlink:href="#linearGradient870"
-       gradientTransform="matrix(1.105,0,0,1.105,2.17625,2.198736)" />
+       gradientTransform="matrix(1.105,0,0,1.105,3.8974707,9.8690165)" />
   </defs>
   <metadata
      id="metadata4162">
@@ -232,22 +232,22 @@
     </rdf:RDF>
   </metadata>
   <path
-     d="m 16.70872,17.718114 a 4.7710111,5.1141703 0 1 1 9.542021,0 4.7710111,5.1141703 0 0 1 -9.542021,0 z"
+     d="m 18.429941,25.388395 a 4.7710111,5.1141703 0 1 1 9.542021,0 4.7710111,5.1141703 0 0 1 -9.542021,0 z"
      id="path3501-4"
-     style="display:inline;overflow:visible;visibility:visible;opacity:0.14117647;fill:url(#radialGradient3232);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;marker:none;stroke-miterlimit:4.75;stroke-dasharray:none"
+     style="display:inline;overflow:visible;visibility:visible;opacity:0.14117647;fill:url(#radialGradient3232);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-miterlimit:4.75;stroke-dasharray:none;marker:none"
      inkscape:connector-curvature="0" />
   <path
-     d="m 21.51375,21.228615 -7.735,-6.268683 7.735,-6.2941037 v 4.0304077 h 6.63 v 4.42 h -6.63 z"
+     d="m 23.234971,28.898896 -7.735,-6.268683 7.735,-6.294104 v 4.030408 h 6.63 v 4.42 h -6.63 z"
      id="path3288-2-2"
      style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient872);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-miterlimit:4.75;stroke-dasharray:none;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <path
-     d="m 20.40875,18.896857 -4.900221,-3.936925 4.900221,-4.003277 v 2.844581 h 6.63 v 2.21 h -6.63 z"
+     d="m 22.129971,26.567138 -4.900221,-3.936925 4.900221,-4.003277 v 2.844581 h 6.63 v 2.21 h -6.63 z"
      id="path3288-2-2-8"
      style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.40100002;fill:none;stroke:url(#linearGradient3260);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4.75;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <path
-     d="m 21.51375,21.228615 -7.735,-6.268683 7.735,-6.2941037 v 4.0304077 h 6.63 v 4.42 h -6.63 z"
+     d="m 23.234971,28.898896 -7.735,-6.268683 7.735,-6.294104 v 4.030408 h 6.63 v 4.42 h -6.63 z"
      id="path3288-2-2-80"
      style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.5;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#7239b3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4.75;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      inkscape:connector-curvature="0" />
