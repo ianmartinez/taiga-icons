@@ -6,11 +6,6 @@ SMILIES: +0.7 value for shadow
 		-0.7 for face
 TODO:
 chart
-ui-switch
-ui-switch-off
-ui-button
-ui-button-focused
-ui-notebook
 ui-progress
 ui-panel
 ui-textbox
