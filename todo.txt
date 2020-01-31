@@ -6,9 +6,26 @@ SMILIES: +0.7 value for shadow
 		-0.7 for face
 TODO:
 chart
+ui-switch
+ui-button
+ui-checkbox
+ui-radio
+ui-window
+ui-notebook
+ui-progress
+ui-panel
+ui-textbox
+ui-dropdown
+ui-dialog
+
+FOR BASES:
+Downscale to 15px max dimension, then 85%
 
 BASES:
 lock
 
 
 DOWN to 85%
+
+STOPPED AT:
+log-out

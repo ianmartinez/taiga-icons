@@ -11,7 +11,7 @@
    width="32"
    version="1.1"
    id="svg6"
-   sodipodi:docname="pane-hide-symbolic.svg"
+   sodipodi:docname="pane-hide.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata12">
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,20 +41,16 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="-1.0677966"
+     inkscape:cx="-23.389831"
      inkscape:cy="12"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6" />
-  <g
-     transform="matrix(1.3,0,0,1.3,-565.425,280.55)"
-     id="g4">
-    <path
-       d="m 440,-213 c -1.108,0 -2,0.892 -2,2 v 15 c 0,1.108 0.892,2 2,2 h 10 v -2 h -9 c -0.554,0 -1,-0.446 -1,-1 v -13 c 0,-0.554 0.446,-1 1,-1 h 9 v -2 z m 9,5 v 3 h -6 v 3 h 6 v 3 l 7.5,-4.5 z"
-       overflow="visible"
-       style="color:#bebebe;overflow:visible;fill:#666666;marker:none"
-       id="path2"
-       inkscape:connector-curvature="0" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2"
+     style="color:#bebebe;overflow:visible;fill:#666666;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;marker:none"
+     overflow="visible"
+     d="m 7.98875,5.5025 c -1.22434,0 -2.21,0.98566 -2.21,2.21 v 16.575 c 0,1.22434 0.98566,2.21 2.21,2.21 h 11.05 v -2.21 h -9.945 c -0.61217,0 -1.105,-0.49283 -1.105,-1.105 V 8.8175 c 0,-0.61217 0.49283,-1.105 1.105,-1.105 h 9.945 v -2.21 z m 9.945,5.525 v 3.315 h -6.63 v 3.315 h 6.63 v 3.315 L 26.22125,16 Z" />
 </svg>
