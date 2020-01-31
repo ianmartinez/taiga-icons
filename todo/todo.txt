@@ -5,13 +5,11 @@ Highlights 255->220
 SMILIES: +0.7 value for shadow
 		-0.7 for face
 TODO:
-chart
 
 FOR BASES:
 Downscale to 15px max dimension, then 85%
 
 BASES:
-lock
 
 
 DOWN to 85%
