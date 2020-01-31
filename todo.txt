@@ -6,7 +6,6 @@ SMILIES: +0.7 value for shadow
 		-0.7 for face
 TODO:
 chart
-ui-dropdown
 
 FOR BASES:
 Downscale to 15px max dimension, then 85%
