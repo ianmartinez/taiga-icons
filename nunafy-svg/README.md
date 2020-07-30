@@ -1,0 +1,1 @@
+Additional icons adapted from [elementary icons](https://github.com/elementary/icons) for use in a web project I'm working on.
